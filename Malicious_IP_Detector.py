@@ -42,5 +42,9 @@ response = requests.request(method='GET', url=url, headers=headers, params=query
 decodedResponse = json.loads(response.text)
 print (json.dumps(decodedResponse, sort_keys=True, indent=4))
 
+
+results = input('Please Review the above results; Press "Enter" when done: ')
+print(results)
+
 #Author: DionTheCyberDefender 
 #DateOfCreation 5/5/2024
