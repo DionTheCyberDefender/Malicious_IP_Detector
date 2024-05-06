@@ -33,7 +33,7 @@ querystring = {
 
 headers = {
     'Accept': 'application/json',
-    'Key': 'd5f8c5761fb0732c651498f58f7075baa6ebe4ae0795dfe86ca4ee4101f4a5c7d75a5ae1be5715ab'
+    'Key': 'Your_API_Key'
 }
 
 response = requests.request(method='GET', url=url, headers=headers, params=querystring)
