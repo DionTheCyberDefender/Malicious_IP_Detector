@@ -6,3 +6,6 @@ For my first Cybersecurity related Python Script, I wanted to create a toolkit u
 Once the user receives the output, they can then determine if this IP depicts any danger or if additional reseach is needed to assist with their decision.
 
 AbuseIPDB API Documentation: https://docs.abuseipdb.com/?python#check-endpoint
+
+Disclaimer:
+The scripts provided here are for educational purposes only. Please use them responsibly and at your own risk. I am not responsible for your actions.
